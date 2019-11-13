@@ -1,0 +1,9 @@
+C:\Web Service\WSDOMAE\WSDOMAE\bin\WSDOMAE.dll
+C:\Web Service\WSDOMAE\WSDOMAE\bin\WSDOMAE.pdb
+C:\Web Service\WSDOMAE\WSDOMAE\bin\WSDOMAE.xml
+C:\Web Service\WSDOMAE\WSDOMAE\obj\Release\ResolveAssemblyReference.cache
+C:\Web Service\WSDOMAE\WSDOMAE\obj\Release\WSDOMAE.Resources.resources
+C:\Web Service\WSDOMAE\WSDOMAE\obj\Release\WSDOMAE.vbproj.GenerateResource.Cache
+C:\Web Service\WSDOMAE\WSDOMAE\obj\Release\WSDOMAE.dll
+C:\Web Service\WSDOMAE\WSDOMAE\obj\Release\WSDOMAE.xml
+C:\Web Service\WSDOMAE\WSDOMAE\obj\Release\WSDOMAE.pdb

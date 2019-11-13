@@ -1,0 +1,38 @@
+<publishData>
+  <publishTarget publishUrl="http://10.50.131.18/WSDomaeME14/">
+    <file relUrl="bin/WSDOMAE.pdb" publishTime="05/04/2018 16:22:38" />
+    <file relUrl="bin/WSDOMAE.dll" publishTime="05/04/2018 16:22:38" />
+    <file relUrl="WSDomae.asmx" publishTime="09/28/2017 08:46:02" />
+    <file relUrl="WSDOMAE.vbproj" publishTime="10/19/2017 19:58:25" />
+    <file relUrl="bin/WSDOMAE.xml" publishTime="05/04/2018 16:22:38" />
+    <file relUrl="WSDOMAE.vbproj.user" publishTime="05/04/2018 09:17:20" />
+    <file relUrl="Web.config" publishTime="11/13/2017 08:43:20" />
+  </publishTarget>
+  <publishTarget publishUrl="http://10.50.131.18/WSDomaeME/">
+    <file relUrl="bin/WSDOMAE.dll" publishTime="01/26/2018 13:17:50" />
+    <file relUrl="bin/WSDOMAE.pdb" publishTime="01/26/2018 13:17:50" />
+    <file relUrl="WSDOMAE.vbproj" publishTime="10/19/2017 19:58:25" />
+    <file relUrl="bin/WSDOMAE.xml" publishTime="01/26/2018 13:17:50" />
+    <file relUrl="WSDOMAE.vbproj.user" publishTime="01/24/2018 14:51:55" />
+    <file relUrl="WSDomae.asmx" publishTime="09/28/2017 08:46:02" />
+    <file relUrl="Web.config" publishTime="11/13/2017 08:43:20" />
+  </publishTarget>
+  <publishTarget publishUrl="http://10.50.131.18/WSDomae/">
+    <file relUrl="bin/WSDOMAE.dll" publishTime="01/15/2018 16:05:25" />
+    <file relUrl="bin/WSDOMAE.pdb" publishTime="01/15/2018 16:05:25" />
+    <file relUrl="WSDOMAE.vbproj" publishTime="10/19/2017 19:58:25" />
+    <file relUrl="bin/WSDOMAE.xml" publishTime="01/15/2018 16:05:25" />
+    <file relUrl="WSDOMAE.vbproj.user" publishTime="10/19/2017 19:58:25" />
+    <file relUrl="WSDomae.asmx" publishTime="09/28/2017 08:46:02" />
+    <file relUrl="Web.config" publishTime="11/13/2017 08:43:20" />
+  </publishTarget>
+  <publishTarget publishUrl="http://10.50.131.18/WSDomaeDEVT/">
+    <file relUrl="bin/WSDOMAE.dll" publishTime="01/12/2018 13:45:23" />
+    <file relUrl="bin/WSDOMAE.pdb" publishTime="01/12/2018 13:45:23" />
+    <file relUrl="WSDOMAE.vbproj" publishTime="10/19/2017 19:58:25" />
+    <file relUrl="bin/WSDOMAE.xml" publishTime="01/12/2018 13:45:23" />
+    <file relUrl="WSDOMAE.vbproj.user" publishTime="10/19/2017 19:58:25" />
+    <file relUrl="WSDomae.asmx" publishTime="09/28/2017 08:46:02" />
+    <file relUrl="Web.config" publishTime="11/13/2017 08:43:20" />
+  </publishTarget>
+</publishData>

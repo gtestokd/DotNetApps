@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="WSDomae.asmx.vb" Class="WSDOMAE.Service1" %>
